@@ -5,7 +5,7 @@ USER_CHOICE = """
 Enter:
 - 'a' to add a new book
 - 'l' to list all books
-- 'r' to mark a book as read
+- 'r' to mqark a book as read
 - 'd' to delete a book
 - 'q' to quit
 
